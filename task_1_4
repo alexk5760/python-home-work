@@ -1,0 +1,7 @@
+from math import sqrt
+
+a = 10
+b = 7
+print('средние арифметическое =', (a + b) / 2)
+
+print('средние геометрическое SQRT =', sqrt(a * b))
